@@ -1,7 +1,8 @@
 # BacaanSholat
 Membuat Aplikasi Bacaan Sholat dengan Android Studio
 
-# Tutorial Build with Android Studio (Solusi jika error lihaht di video)
+# Tutorial Build with Android Studio
+(Solusi jika error lihat di video)
 https://youtu.be/-tMTQW3EjdE
 
 # Tutorial Build with Step by Step
